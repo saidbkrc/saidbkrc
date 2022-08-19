@@ -8,9 +8,12 @@
   <span>I'm a Star Wars fan and of course I'm a software developer.</span>
 </div>
 <div>
+    <h5>
+     &emsp;&emsp; I graduated from Karatay University, Department of Energy Management. I took business courses at Coimbra ISCAC in Portugal.
+For various reasons, I could not find a job related to the department I studied and I decided to learn software. During this time, I received Project management certificate and advanced excel certificate. With the help of my sister, I developed myself in php and codeigniter. I worked on my own for about 9 months. Then I started to work as a backend developer in pigasoft and I have been working for more than 1 year. Currently I'm studying computer programming at Karatay University. 
+    </h5>
     <h5 align="center">
-    I graduated from Karatay University, Department of Energy Management. I took business courses at Coimbra ISCAC in Portugal.
-For various reasons, I could not find a job related to the department I studied and I decided to learn software. During this time, I received Project management certificate and advanced excel certificate. With the help of my sister, I developed myself in php and codeigniter. I worked on my own for about 9 months. Then I started to work as a backend developer in pigasoft and I have been working for more than 1 year. Currently I'm studying computer programming at Karatay University. Thank you.
+      Thank you.
     </h5>
     <div align="center">
       <img src="https://user-images.githubusercontent.com/91894459/185671630-4be05ce9-66d3-4e13-a896-88ac2dd7d1c7.png" width="25"> 
@@ -32,8 +35,22 @@ For various reasons, I could not find a job related to the department I studied 
 
 <hr>
 
+
+- 🔭 I’m currently working at <a href="https://pigasoft.com/en" target="blank">Pigasoft</a>
+
+- 🌱 I’m currently learning <strong>NodeJs and many other!</strong>
+
+- 📝 I dont have article yet
+
+- 📫 How to reach me <a href="mailto:saidbkrc14@gmail.com">saidbkrc14@gmail.com</a>
+<hr>
+
 <div>
-    <h3 align="center"><img src="https://user-images.githubusercontent.com/91894459/185680424-02a6f184-7108-4012-b99d-8580f78c2dfe.png" width="35"> <strong>Technologies That I Use</strong><img src="https://user-images.githubusercontent.com/91894459/185684277-bf25f9f9-77b1-477a-a740-1f7e7d7deecc.png" width="35"></h3>
+    <h3 align="center">
+      <img src="https://user-images.githubusercontent.com/91894459/185680424-02a6f184-7108-4012-b99d-8580f78c2dfe.png" width="35"> 
+      <strong>Technologies That I Use</strong>
+      <img src="https://user-images.githubusercontent.com/91894459/185684277-bf25f9f9-77b1-477a-a740-1f7e7d7deecc.png" width="35">
+    </h3>
 </div>
 <div align="center">
     <img alt="php" src="https://user-images.githubusercontent.com/91894459/185680758-6d958a42-4273-42c8-bced-4414900156e3.png" width="50">
