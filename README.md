@@ -67,8 +67,8 @@ For various reasons, I could not find a job related to the department I studied 
 </div>
 
 <div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbkrc14&show_icons=true&theme=dark&locale=en&layout=compact" alt="saidbkrc14" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbkrc&show_icons=true&theme=dark&locale=en&layout=compact" alt="saidbkrc" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidbkrc14&show_icons=true&theme=dark&locale=en" alt="saidbkrc14" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saidbkrc&show_icons=true&theme=dark&locale=en" alt="saidbkrc" /></p>
 </div>
 
