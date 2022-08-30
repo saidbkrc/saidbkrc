@@ -65,8 +65,8 @@ For various reasons, I could not find a job related to the department I studied 
     <img alt="c#" src="https://user-images.githubusercontent.com/91894459/185682276-0af9e9d4-e1f4-4cf3-98a2-80835ec8e1fa.png" width="50">
     <img alt="jira" src="https://user-images.githubusercontent.com/91894459/185682333-eb5378b0-0f6d-4a1f-bf0b-959293cfd06d.png" width="50">
 </div>
-
+<hr>
 <div>
-  <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbkrc&show_icons=true&theme=dark&locale=en&layout=compact" alt="saidbkrc" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbkrc&show_icons=true&theme=dark&locale=en&layout=compact" alt="saidbkrc" /></p>
 </div>
 
