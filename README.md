@@ -67,6 +67,6 @@ For various reasons, I could not find a job related to the department I studied 
 </div>
 <hr>
 <div>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbkrc&show_icons=true&theme=dark&locale=en&layout=compact" alt="saidbkrc" /></p>
+  <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saidbkrc&show_icons=true&theme=dark&locale=en&layout=compact" alt="saidbkrc" /></p>
 </div>
 
