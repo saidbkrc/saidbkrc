@@ -38,7 +38,7 @@ For various reasons, I could not find a job related to the department I studied 
 
 - 🔭 I’m currently working at <a href="https://pigasoft.com/en" target="blank">Pigasoft</a>
 
-- 🌱 I’m currently learning <strong>NodeJs and many other!</strong>
+- 🌱 I’m currently learning <strong>Laravel and many other!</strong>
 
 - 📝 I dont have article yet
 
@@ -64,8 +64,7 @@ For various reasons, I could not find a job related to the department I studied 
     <img alt="postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50">
     <img alt="c#" src="https://user-images.githubusercontent.com/91894459/185682276-0af9e9d4-e1f4-4cf3-98a2-80835ec8e1fa.png" width="50">
     <img alt="jira" src="https://user-images.githubusercontent.com/91894459/185682333-eb5378b0-0f6d-4a1f-bf0b-959293cfd06d.png" width="50">
-    <img alt="laravel" src="https://user-images.githubusercontent.com/91894459/200603058-27568fe3-198f-4bc7-99eb-8755645bb89d.png" width="50">
-
+    <img alt="laravel" src="https://user-images.githubusercontent.com/91894459/200603371-4d44d3d5-989a-41aa-b2d0-c86114ff3f27.png" width="50">
 </div>
 <hr>
 <div>
